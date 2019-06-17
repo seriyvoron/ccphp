@@ -2,8 +2,12 @@
 "repositories": [
   {
     "name": "seriyvoron/ccphp",
+<<<<<<< HEAD
     "type": "git",
     "url": "https://github.com/seriyvoron/ccphp.git"
   }
-],
+]
+=======
+    "description": "php collor console"
+>>>>>>> b1dbb27... edit json
 }
