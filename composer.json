@@ -1,9 +1,4 @@
 {
-"repositories": [
-  {
     "name": "seriyvoron/ccphp",
-    "type": "git",
-    "url": "https://github.com/seriyvoron/ccphp.git"
-  }
-]
+    "description": "php collor console",
 }
