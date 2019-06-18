@@ -3,6 +3,7 @@
   {
     "name": "seriyvoron/ccphp",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "type": "git",
     "url": "https://github.com/seriyvoron/ccphp.git"
   }
@@ -10,4 +11,10 @@
 =======
     "description": "php collor console"
 >>>>>>> b1dbb27... edit json
+=======
+    "description": "php collor console",
+    "require": {
+        "php": ">=5.4"
+    }
+>>>>>>> 0443420... add require php version
 }
