@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 "repositories": [
   {
     "name": "seriyvoron/ccphp",
@@ -12,6 +13,9 @@
     "description": "php collor console"
 >>>>>>> b1dbb27... edit json
 =======
+=======
+    "name": "seriyvoron/ccphp 0.0.1",
+>>>>>>> 664d03d... add version on name of package
     "description": "php collor console",
     "require": {
         "php": ">=5.4"
