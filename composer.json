@@ -1,4 +1,7 @@
 {
     "name": "seriyvoron/ccphp",
-    "description": "php collor console"
+    "description": "php collor console",
+    "require": {
+        "php": ">=5.4"
+    }
 }
